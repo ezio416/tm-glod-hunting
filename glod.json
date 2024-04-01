@@ -210,7 +210,58 @@
                     }
                 }
             },
-            "05_Night Life": {},
+            "05_Night Life": {
+                "01_HighStreet": {
+                    "mapUid": "jJKtwwtrUsDSgVL__WCNx4KrDj0",
+                    "medals": {
+                        "author": 109450,
+                        "gold": 117660,
+                        "silver": 141320,
+                        "bronze": 216090,
+                        "ezio": 112450
+                    }
+                },
+                "02_TunnelEffect": {
+                    "mapUid": "KCOQcTmkVXSubAa2ZwM7sY50q26",
+                    "medals": {
+                        "author": 69080,
+                        "gold": 73980,
+                        "silver": 90080,
+                        "bronze": 131350,
+                        "ezio": 69580
+                    }
+                },
+                "03_Suburbs": {
+                    "mapUid": "4hJJlMnRHasxbLVrchwntzAp4dd",
+                    "medals": {
+                        "author": 59720,
+                        "gold": 64360,
+                        "silver": 77770,
+                        "bronze": 117580,
+                        "ezio": 57070
+                    }
+                },
+                "04_Deviation": {
+                    "mapUid": "J3dPVbirxev0fi4QvmZ3brNotG4",
+                    "medals": {
+                        "author": 84530,
+                        "gold": 91430,
+                        "silver": 108950,
+                        "bronze": 160820,
+                        "ezio": 84490
+                    }
+                },
+                "05_BuildingRider": {
+                    "mapUid": "dGY8uOACIS1IJXh_cFLfCbjN5qj",
+                    "medals": {
+                        "author": 103120,
+                        "gold": 110840,
+                        "silver": 126560,
+                        "bronze": 188580,
+                        "ezio": 104480
+                    }
+                }
+            },
             "06_Evasion": {},
             "07_Point Break": {}
         },
