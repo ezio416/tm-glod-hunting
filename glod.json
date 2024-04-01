@@ -1,9 +1,9 @@
 {
-    "TrackMania Original": {},
-    "TrackMania Sunrise eXtreme": {
-        "Race": {
-            "Holidays": {
-                "SkidOrDie": {
+    "01_TrackMania Original": {},
+    "02_TrackMania Sunrise eXtreme": {
+        "01_Race": {
+            "01_Holidays": {
+                "01_SkidOrDie": {
                     "mapUid": "LkvA1daKYafkHo3C3mu8fnpMnm2",
                     "medals": {
                         "author": 47820,
@@ -13,7 +13,7 @@
                         "ezio": 49470
                     }
                 },
-                "CarPark": {
+                "02_CarPark": {
                     "mapUid": "dARlHaXQ3djEElfEczQFC4_dflm",
                     "medals": {
                         "author": 34020,
@@ -23,27 +23,48 @@
                         "ezio": 35260
                     }
                 },
-                "ParadiseIsland": {
-                    "author": 50960,
-                    "gold": 53620,
-                    "silver": 66050,
-                    "bronze": 98060,
-                    "ezio": 53430
+                "03_ParadiseIsland": {
+                    "mapUid": "9LK9K8LViL6LNOsndhYYFpmdDT6",
+                    "medals": {
+                        "author": 50960,
+                        "gold": 53620,
+                        "silver": 66050,
+                        "bronze": 98060,
+                        "ezio": 53430
+                    }
                 },
-                "NightFlight": {},
-                "GoodMorning": {}
+                "04_NightFlight": {
+                    "mapUid": "1kTZLgOTcfc4JbxfE6Fp6feblh0",
+                    "medals": {
+                        "author": 36590,
+                        "gold": 39150,
+                        "silver": 44440,
+                        "bronze": 69920,
+                        "ezio": 38720
+                    }
+                },
+                "05_GoodMorning": {
+                    "mapUid": "U7AgYzcw2ho5nG_vvkCA5sISST1",
+                    "medals": {
+                        "author": 53130,
+                        "gold": 56800,
+                        "silver": 69080,
+                        "bronze": 105600,
+                        "ezio": 52670
+                    }
+                }
             },
-            "Shopping": {},
-            "Excursion": {},
-            "Surfing": {},
-            "Night Life": {},
-            "Evasion": {},
-            "Point Break": {}
+            "02_Shopping": {},
+            "03_Excursion": {},
+            "04_Surfing": {},
+            "05_Night Life": {},
+            "06_Evasion": {},
+            "07_Point Break": {}
         },
-        "Platform": {},
-        "Puzzle": {},
-        "Stunts": {},
-        "Crazy": {},
-        "Extreme Race": {}
+        "02_Platform": {},
+        "03_Puzzle": {},
+        "04_Stunts": {},
+        "05_Crazy": {},
+        "06_Extreme Race": {}
     }
 }
