@@ -54,7 +54,58 @@
                     }
                 }
             },
-            "02_Shopping": {},
+            "02_Shopping": {
+                "01_Downtown": {
+                    "mapUid": "Oi4QnXf3MSRYzjEERgnxgDAKGrf",
+                    "medals": {
+                        "author": 48360,
+                        "gold": 52430,
+                        "silver": 62140,
+                        "bronze": 95150,
+                        "ezio": 52060
+                    }
+                },
+                "02_CrossOver": {
+                    "mapUid": "R6ycugYTq3orK3nO7iVwkpM9u87",
+                    "medals": {
+                        "author": 37910,
+                        "gold": 39570,
+                        "silver": 49750,
+                        "bronze": 74620,
+                        "ezio": 37600
+                    }
+                },
+                "03_FollowTheLeader": {
+                    "mapUid": "0s3ui7eAzwzlr9ryRC5W3cVB7_7",
+                    "medals": {
+                        "author": 43280,
+                        "gold": 47500,
+                        "silver": 55870,
+                        "bronze": 86400,
+                        "ezio": 46030
+                    }
+                },
+                "04_TrickyTrack": {
+                    "mapUid": "vf2JfRwx8xepBUy7nTDIPYjUT2k",
+                    "medals": {
+                        "author": 43510,
+                        "gold": 45790,
+                        "silver": 56480,
+                        "bronze": 89470,
+                        "ezio": 41770
+                    }
+                },
+                "05_OnTheRoofAgain": {
+                    "mapUid": "z1StFHYOftqg_UlqhvKfrS9M0ya",
+                    "medals": {
+                        "author": 45840,
+                        "gold": 49050,
+                        "silver": 59920,
+                        "bronze": 91110,
+                        "ezio": 48820
+                    }
+                }
+            },
             "03_Excursion": {},
             "04_Surfing": {},
             "05_Night Life": {},

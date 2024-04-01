@@ -8,7 +8,7 @@ from PIL import Image
 
 def main() -> None:
     for root, dirs, files in os.walk('images'):
-        print(root, dirs, files)
+        # print(root, dirs, files)
 
         for file in files:
             path: str = os.path.abspath(os.path.join(root, file))
