@@ -1,0 +1,49 @@
+{
+    "TrackMania Original": {},
+    "TrackMania Sunrise": {
+        "Race": {
+            "Holidays": {
+                "SkidOrDie": {
+                    "MapUid": "LkvA1daKYafkHo3C3mu8fnpMnm2",
+                    "Medals": {
+                        "Author": 47820,
+                        "Gold": 50690,
+                        "Silver": 61930,
+                        "Bronze": 96630,
+                        "Ezio": 49470
+                    }
+                },
+                "CarPark": {
+                    "MapUid": "dARlHaXQ3djEElfEczQFC4_dflm",
+                    "Medals": {
+                        "Author": 34020,
+                        "Gold": 37110,
+                        "Silver": 47560,
+                        "Bronze": 70050,
+                        "Ezio": 35260
+                    }
+                },
+                "ParadiseIsland": {
+                    "Author": 50960,
+                    "Gold": 53620,
+                    "Silver": 66050,
+                    "Bronze": 98060,
+                    "Ezio": 53430
+                },
+                "NightFlight": {},
+                "GoodMorning": {}
+            },
+            "Shopping": {},
+            "Excursion": {},
+            "Surfing": {},
+            "Night Life": {},
+            "Evasion": {},
+            "Point Break": {}
+        },
+        "Platform": {},
+        "Puzzle": {},
+        "Stunts": {},
+        "Crazy": {},
+        "Extreme Race": {}
+    }
+}
