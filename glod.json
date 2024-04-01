@@ -1,34 +1,34 @@
 {
     "TrackMania Original": {},
-    "TrackMania Sunrise": {
+    "TrackMania Sunrise eXtreme": {
         "Race": {
             "Holidays": {
                 "SkidOrDie": {
-                    "MapUid": "LkvA1daKYafkHo3C3mu8fnpMnm2",
-                    "Medals": {
-                        "Author": 47820,
-                        "Gold": 50690,
-                        "Silver": 61930,
-                        "Bronze": 96630,
-                        "Ezio": 49470
+                    "mapUid": "LkvA1daKYafkHo3C3mu8fnpMnm2",
+                    "medals": {
+                        "author": 47820,
+                        "gold": 50690,
+                        "silver": 61930,
+                        "bronze": 96630,
+                        "ezio": 49470
                     }
                 },
                 "CarPark": {
-                    "MapUid": "dARlHaXQ3djEElfEczQFC4_dflm",
-                    "Medals": {
-                        "Author": 34020,
-                        "Gold": 37110,
-                        "Silver": 47560,
-                        "Bronze": 70050,
-                        "Ezio": 35260
+                    "mapUid": "dARlHaXQ3djEElfEczQFC4_dflm",
+                    "medals": {
+                        "author": 34020,
+                        "gold": 37110,
+                        "silver": 47560,
+                        "bronze": 70050,
+                        "ezio": 35260
                     }
                 },
                 "ParadiseIsland": {
-                    "Author": 50960,
-                    "Gold": 53620,
-                    "Silver": 66050,
-                    "Bronze": 98060,
-                    "Ezio": 53430
+                    "author": 50960,
+                    "gold": 53620,
+                    "silver": 66050,
+                    "bronze": 98060,
+                    "ezio": 53430
                 },
                 "NightFlight": {},
                 "GoodMorning": {}
