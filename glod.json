@@ -158,7 +158,58 @@
                     }
                 }
             },
-            "04_Surfing": {},
+            "04_Surfing": {
+                "01_SpeedWave": {
+                    "mapUid": "EZvy6Fh9GXqR8FeViP9qIW8kUk0",
+                    "medals": {
+                        "author": 101440,
+                        "gold": 108000,
+                        "silver": 131370,
+                        "bronze": 199250,
+                        "ezio": 104520
+                    }
+                },
+                "02_Antigrav": {
+                    "mapUid": "5LL2FtKCrujaHxSLKLYCsTP8hx0",
+                    "medals": {
+                        "author": 54220,
+                        "gold": 58360,
+                        "silver": 70980,
+                        "bronze": 104500,
+                        "ezio": 55440
+                    }
+                },
+                "03_BeautifulDay": {
+                    "mapUid": "7xTJf7gbMpGyB8n_vE7QY05vZub",
+                    "medals": {
+                        "author": 179800,
+                        "gold": 188250,
+                        "silver": 229380,
+                        "bronze": 346750,
+                        "ezio": 183560
+                    }
+                },
+                "04_Midnight": {
+                    "mapUid": "4l7La0Yq612uwAz6wuD9TVMssL8",
+                    "medals": {
+                        "author": 60500,
+                        "gold": 65660,
+                        "silver": 78540,
+                        "bronze": 120850,
+                        "ezio": 63330
+                    }
+                },
+                "05_RampRage": {
+                    "mapUid": "OR0mSX6CJEFOJ7ntoFI_tnQvUy1",
+                    "medals": {
+                        "author": 67540,
+                        "gold": 73170,
+                        "silver": 83990,
+                        "bronze": 126130,
+                        "ezio": 66960
+                    }
+                }
+            },
             "05_Night Life": {},
             "06_Evasion": {},
             "07_Point Break": {}
