@@ -262,8 +262,90 @@
                     }
                 }
             },
-            "06_Evasion": {},
-            "07_Point Break": {}
+            "06_Evasion": {
+                "01_Magnitude": {
+                    "mapUid": "35uuEC2sOul_9_b09Lep0s7Eohd",
+                    "medals": {
+                        "author": 69480,
+                        "gold": 72990,
+                        "silver": 89530,
+                        "bronze": 125980,
+                        "ezio": 71850
+                    }
+                },
+                "02_GrandPrix2": {
+                    "mapUid": "6x9vaj5kQSIt9TAV9gkPd45Ytr1",
+                    "medals": {
+                        "author": 171030,
+                        "gold": 186030,
+                        "silver": 220360,
+                        "bronze": 320520,
+                        "ezio": 178140
+                    }
+                },
+                "03_HomeRun": {
+                    "mapUid": "TUaBFBvDH3YC7WEu3CRvc54k6w",
+                    "medals": {
+                        "author": 66450,
+                        "gold": 71340,
+                        "silver": 85550,
+                        "bronze": 125030,
+                        "ezio": 69470
+                    }
+                },
+                "04_AquaScheme": {
+                    "mapUid": "FkHx8gCUDAdnBYtNLGgpckjB3W9",
+                    "medals": {
+                        "author": 92890,
+                        "gold": 98240,
+                        "silver": 119010,
+                        "bronze": 174810,
+                        "ezio": 97100
+                    }
+                },
+                "05_Nightrider": {
+                    "mapUid": "E3aVOYy5EDExBDeSijr_5RCy_Y0",
+                    "medals": {
+                        "author": 126320,
+                        "gold": 132390,
+                        "silver": 160200,
+                        "bronze": 235730,
+                        "ezio": 130530
+                    }
+                }
+            },
+            "07_Point Break": {
+                "01_Orbital": {
+                    "mapUid": "wdxk73UPwJgfeC2n20mEGiK7W6l",
+                    "medals": {
+                        "author": 110300,
+                        "gold": 125000,
+                        "silver": 160000,
+                        "bronze": 220000,
+                        "ezio": 114000
+                    }
+                },
+                "02_HappyBay": {
+                    "mapUid": "jcC0u7Xaq4_COprvqe0oJr41Byc",
+                    "medals": {
+                        "author": 212440,
+                        "gold": 225000,
+                        "silver": 250000,
+                        "bronze": 320000,
+                        "ezio": 212140
+                    }
+                },
+                "03_GrandPrix30": {
+                    "mapUid": "Rcu7p4zU1jQS0KqiF6Zp4mSisGe",
+                    "medals": {
+                        "author": 1195540,
+                        "gold": 1280000,
+                        "silver": 1500000,
+                        "bronze": 2300000,
+                        "ezio": 1183850
+                    }
+                }
+            }
         },
         "02_Platform": {},
         "03_Puzzle": {},
