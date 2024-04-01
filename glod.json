@@ -106,7 +106,58 @@
                     }
                 }
             },
-            "03_Excursion": {},
+            "03_Excursion": {
+                "01_QuietRide": {
+                    "mapUid": "1XWc856AxR3yAcu_oFst8UX82yg",
+                    "medals": {
+                        "author": 26010,
+                        "gold": 27970,
+                        "silver": 33230,
+                        "bronze": 49640,
+                        "ezio": 24260
+                    }
+                },
+                "02_GrandPrix": {
+                    "mapUid": "_WOQHDVkFfCbuP5_4YAoGwu9Jf0",
+                    "medals": {
+                        "author": 36940,
+                        "gold": 39740,
+                        "silver": 47970,
+                        "bronze": 72460,
+                        "ezio": 39730
+                    }
+                },
+                "03_Snake": {
+                    "mapUid": "lsE9atkWcFdG0qMRFw0atlS3Gx4",
+                    "medals": {
+                        "author": 30080,
+                        "gold": 31960,
+                        "silver": 40670,
+                        "bronze": 59110,
+                        "ezio": 31860
+                    }
+                },
+                "04_JumpOnBrakes": {
+                    "mapUid": "R6tgbBS88wVlemAGRE1Nq_rkm0i",
+                    "medals": {
+                        "author": 44830,
+                        "gold": 47800,
+                        "silver": 57570,
+                        "bronze": 84990,
+                        "ezio": 47690
+                    }
+                },
+                "05_Village": {
+                    "mapUid": "riGFP4PWL9CTYt_kQ5lqXoY5f3m",
+                    "medals": {
+                        "author": 48670,
+                        "gold": 51590,
+                        "silver": 62180,
+                        "bronze": 93020,
+                        "ezio": 51480
+                    }
+                }
+            },
             "04_Surfing": {},
             "05_Night Life": {},
             "06_Evasion": {},
