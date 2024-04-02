@@ -1,5 +1,1335 @@
 {
-    "01_TrackMania Original": {},
+    "01_TrackMania Original": {
+        "01_Race": {
+            "01_RaceA": {
+                "01_RaceA1": {
+                    "mapUid": "pfG3yOqWJaTihqfo7OOE4Pf9iBf",
+                    "medals": {
+                        "author": 19800,
+                        "gold": 25600,
+                        "silver": 30800,
+                        "bronze": 45830,
+                        "ezio": 19910
+                    }
+                },
+                "02_RaceA2": {
+                    "mapUid": "JwBhLmpc5UvR8x1vThrkUqlhnD4",
+                    "medals": {
+                        "author": 26350,
+                        "gold": 31370,
+                        "silver": 38510,
+                        "bronze": 49320,
+                        "ezio": 26840
+                    }
+                },
+                "03_RaceA3": {
+                    "mapUid": "2zy5QehSIbRDwbNBjq1Qcqf4cm6",
+                    "medals": {
+                        "author": 32190,
+                        "gold": 43470,
+                        "silver": 49440,
+                        "bronze": 59770,
+                        "ezio": 34240
+                    }
+                },
+                "04_RaceA4": {
+                    "mapUid": "WcZMiPbKMMmbalZ39fTFtLZkr68",
+                    "medals": {
+                        "author": 45330,
+                        "gold": 57190,
+                        "silver": 67200,
+                        "bronze": 84920,
+                        "ezio": 46530
+                    }
+                },
+                "05_RaceA5": {
+                    "mapUid": "BHjfZnzGtVhZ6LkOvbjRFbZ1duj",
+                    "medals": {
+                        "author": 34240,
+                        "gold": 43110,
+                        "silver": 47840,
+                        "bronze": 63290,
+                        "ezio": 34650
+                    }
+                },
+                "06_RaceA6": {
+                    "mapUid": "y6SR16cXqLjq3YjiWmKHcn3ePub",
+                    "medals": {
+                        "author": 25480,
+                        "gold": 27190,
+                        "silver": 29640,
+                        "bronze": 44780,
+                        "ezio": 24940
+                    }
+                },
+                "07_RaceA7": {
+                    "mapUid": "dRLBzExuUI9eIAry5HoJC6w0Axj",
+                    "medals": {
+                        "author": 34840,
+                        "gold": 39930,
+                        "silver": 45410,
+                        "bronze": 59490,
+                        "ezio": 37760
+                    }
+                },
+                "08_RaceA8": {
+                    "mapUid": "yHoupuy18wLvR5gVfqzOhE5bLI6",
+                    "medals": {
+                        "author": 34990,
+                        "gold": 40940,
+                        "silver": 46180,
+                        "bronze": 61570,
+                        "ezio": 37640
+                    }
+                }
+            },
+            "02_RaceB": {
+                "01_RaceB1": {
+                    "mapUid": "aDIAoGgIXba3YRNc8vqPl3xBuf7",
+                    "medals": {
+                        "author": 28620,
+                        "gold": 36590,
+                        "silver": 40820,
+                        "bronze": 50730,
+                        "ezio": 32550
+                    }
+                },
+                "02_RaceB2": {
+                    "mapUid": "evFDwVk8F1dFrMbMyv7caZjxUqm",
+                    "medals": {
+                        "author": 37080,
+                        "gold": 50490,
+                        "silver": 56080,
+                        "bronze": 75300,
+                        "ezio": 43110
+                    }
+                },
+                "03_RaceB3": {
+                    "mapUid": "6WW5bSINwCLcYTEXiUjVAvkeG1f",
+                    "medals": {
+                        "author": 34900,
+                        "gold": 40860,
+                        "silver": 50390,
+                        "bronze": 68010,
+                        "ezio": 36990
+                    }
+                },
+                "04_RaceB4": {
+                    "mapUid": "9wPRqWeMnoycpOrMTVZKs3RqYpj",
+                    "medals": {
+                        "author": 39620,
+                        "gold": 47150,
+                        "silver": 56460,
+                        "bronze": 73710,
+                        "ezio": 41950
+                    }
+                },
+                "05_RaceB5": {
+                    "mapUid": "9FcMoAD2Sh5WysA4Aa9JiAo724h",
+                    "medals": {
+                        "author": 20320,
+                        "gold": 25880,
+                        "silver": 30910,
+                        "bronze": 45770,
+                        "ezio": 22220
+                    }
+                },
+                "06_RaceB6": {
+                    "mapUid": "KTEFVOcpOBMbS2YlaEHCZeGwtc9",
+                    "medals": {
+                        "author": 48230,
+                        "gold": 57630,
+                        "silver": 72410,
+                        "bronze": 97310,
+                        "ezio": 53080
+                    }
+                },
+                "07_RaceB7": {
+                    "mapUid": "UBTDI3nD33M7zwl8YCfE3CJJQrg",
+                    "medals": {
+                        "author": 39370,
+                        "gold": 49470,
+                        "silver": 58570,
+                        "bronze": 77240,
+                        "ezio": 47920
+                    }
+                },
+                "08_RaceB8": {
+                    "mapUid": "p7duYZs95JtxHDSNIs4v6FGdB81",
+                    "medals": {
+                        "author": 39460,
+                        "gold": 42440,
+                        "silver": 51500,
+                        "bronze": 70870,
+                        "ezio": 41100
+                    }
+                }
+            },
+            "03_RaceC": {
+                "01_RaceC1": {
+                    "mapUid": "6MS_tuiDGHozUU1FLW6aDXtId_l",
+                    "medals": {
+                        "author": 24980,
+                        "gold": 29680,
+                        "silver": 41780,
+                        "bronze": 44800,
+                        "ezio": 26850
+                    }
+                },
+                "02_RaceC2": {
+                    "mapUid": "I7UPlK5usZrtQ34ViGpSdyQKc5g",
+                    "medals": {
+                        "author": 26590,
+                        "gold": 30570,
+                        "silver": 39840,
+                        "bronze": 45700,
+                        "ezio": 27260
+                    }
+                },
+                "03_RaceC3": {
+                    "mapUid": "YfSJa9yZgeDMzjZSenkHgIVi9uj",
+                    "medals": {
+                        "author": 31110,
+                        "gold": 34980,
+                        "silver": 42850,
+                        "bronze": 53160,
+                        "ezio": 33830
+                    }
+                },
+                "04_RaceC4": {
+                    "mapUid": "y4k9m4TQcVGb85fBdyTtmPDbdGe",
+                    "medals": {
+                        "author": 59340,
+                        "gold": 64740,
+                        "silver": 75240,
+                        "bronze": 90170,
+                        "ezio": 61330
+                    }
+                },
+                "05_RaceC5": {
+                    "mapUid": "23ELE2O6Xgva0NR8R9di00glmyi",
+                    "medals": {
+                        "author": 40410,
+                        "gold": 42210,
+                        "silver": 46740,
+                        "bronze": 56750,
+                        "ezio": 41560
+                    }
+                },
+                "06_RaceC6": {
+                    "mapUid": "dPNePQBngSOyni2UxDfzf2TTRX8",
+                    "medals": {
+                        "author": 45500,
+                        "gold": 53420,
+                        "silver": 59120,
+                        "bronze": 69170,
+                        "ezio": 47750
+                    }
+                },
+                "07_RaceC7": {
+                    "mapUid": "V6Q4pfiFALSFRiFhasttzc4F9D6",
+                    "medals": {
+                        "author": 66510,
+                        "gold": 72220,
+                        "silver": 79800,
+                        "bronze": 95110,
+                        "ezio": 70760
+                    }
+                },
+                "08_RaceC8": {
+                    "mapUid": "Cp13QFAOJeAuQjvxtAsnjhL7Xpc",
+                    "medals": {
+                        "author": 38980,
+                        "gold": 42800,
+                        "silver": 49570,
+                        "bronze": 61380,
+                        "ezio": 42400
+                    }
+                }
+            },
+            "04_RaceD": {
+                "01_RaceD1": {
+                    "mapUid": "gqgYeYpEooikuhJtTrd5IidkXhc",
+                    "medals": {
+                        "author": 36450,
+                        "gold": 37840,
+                        "silver": 43950,
+                        "bronze": 59840,
+                        "ezio": 36420
+                    }
+                },
+                "02_RaceD2": {
+                    "mapUid": "eXJy6GG76fKY6XCq6I8ggR43lg4",
+                    "medals": {
+                        "author": 32950,
+                        "gold": 36510,
+                        "silver": 41910,
+                        "bronze": 55110,
+                        "ezio": 35340
+                    }
+                },
+                "03_RaceD3": {
+                    "mapUid": "N0XujQLE3PR6dOYLrmYDeLPmC4f",
+                    "medals": {
+                        "author": 39710,
+                        "gold": 43300,
+                        "silver": 47930,
+                        "bronze": 58510,
+                        "ezio": 40820
+                    }
+                },
+                "04_RaceD4": {
+                    "mapUid": "zLyl79581k2AsdHc3MNCXCF8aG5",
+                    "medals": {
+                        "author": 53130,
+                        "gold": 58110,
+                        "silver": 63950,
+                        "bronze": 80020,
+                        "ezio": 53800
+                    }
+                },
+                "05_RaceD5": {
+                    "mapUid": "p7P74A2L6Ld_iCr58z7vnIWFjzj",
+                    "medals": {
+                        "author": 50950,
+                        "gold": 55770,
+                        "silver": 60750,
+                        "bronze": 85880,
+                        "ezio": 51490
+                    }
+                },
+                "06_RaceD6": {
+                    "mapUid": "JeLsKc_nAAMYmySBKw4Uv5Y58i7",
+                    "medals": {
+                        "author": 52480,
+                        "gold": 56430,
+                        "silver": 61360,
+                        "bronze": 71550,
+                        "ezio": 55670
+                    }
+                },
+                "07_RaceD7": {
+                    "mapUid": "AfwJY6OugrNN5PitXy14yoOdC8i",
+                    "medals": {
+                        "author": 46160,
+                        "gold": 49020,
+                        "silver": 53860,
+                        "bronze": 71190,
+                        "ezio": 48470
+                    }
+                },
+                "08_RaceD8": {
+                    "mapUid": "RP7ej9zZfMGgLt_d9DAWvBEtQy1",
+                    "medals": {
+                        "author": 38630,
+                        "gold": 45950,
+                        "silver": 51130,
+                        "bronze": 73020,
+                        "ezio": 43220
+                    }
+                }
+            },
+            "05_RaceE": {
+                "01_RaceE1": {
+                    "mapUid": "cdNRGLsZQxPCQoVk3baqAmR15om",
+                    "medals": {
+                        "author": 48720,
+                        "gold": 54520,
+                        "silver": 60210,
+                        "bronze": 76770,
+                        "ezio": 53140
+                    }
+                },
+                "02_RaceE2": {
+                    "mapUid": "D0xRnESvsnRcdR9ExqFy7h5Z8f8",
+                    "medals": {
+                        "author": 45900,
+                        "gold": 53160,
+                        "silver": 58690,
+                        "bronze": 71900,
+                        "ezio": 52230
+                    }
+                },
+                "03_RaceE3": {
+                    "mapUid": "MMyobJSeSJtdDYlzA4RBu2uwnFj",
+                    "medals": {
+                        "author": 42630,
+                        "gold": 44320,
+                        "silver": 48550,
+                        "bronze": 66430,
+                        "ezio": 43740
+                    }
+                },
+                "04_RaceE4": {
+                    "mapUid": "24THAol__N_TAUGlp0urCfljFsd",
+                    "medals": {
+                        "author": 30010,
+                        "gold": 34190,
+                        "silver": 37380,
+                        "bronze": 47570,
+                        "ezio": 32680
+                    }
+                },
+                "05_RaceE5": {
+                    "mapUid": "ODf53OKu7MhRC1jy5CWYl829D2e",
+                    "medals": {
+                        "author": 59430,
+                        "gold": 65890,
+                        "silver": 73410,
+                        "bronze": 84950,
+                        "ezio": 62330
+                    }
+                },
+                "06_RaceE6": {
+                    "mapUid": "pOuBv0vt0KrYPY2MSTjVFAYzhGf",
+                    "medals": {
+                        "author": 61600,
+                        "gold": 67520,
+                        "silver": 72460,
+                        "bronze": 91260,
+                        "ezio": 63980
+                    }
+                },
+                "07_RaceE7": {
+                    "mapUid": "lhy2y9KH4fuxFUjp2_a5inLk2Lg",
+                    "medals": {
+                        "author": 114660,
+                        "gold": 123740,
+                        "silver": 128020,
+                        "bronze": 147370,
+                        "ezio": 119660
+                    }
+                },
+                "08_RaceE8": {
+                    "mapUid": "DKpdKSK5PzLCHJ7lM7HkU9mppyi",
+                    "medals": {
+                        "author": 58070,
+                        "gold": 61280,
+                        "silver": 66310,
+                        "bronze": 80400,
+                        "ezio": 59670
+                    }
+                }
+            },
+            "06_RaceF": {
+                "01_RaceF1": {
+                    "mapUid": "YvAH9HtvB8jszkTpeBQOFVSEv9j",
+                    "medals": {
+                        "author": 41060,
+                        "gold": 43680,
+                        "silver": 48140,
+                        "bronze": 62350,
+                        "ezio": 43410
+                    }
+                },
+                "02_RaceF2": {
+                    "mapUid": "MSeASaJaYJePf42BzJZ5u0HXKo6",
+                    "medals": {
+                        "author": 71260,
+                        "gold": 72120,
+                        "silver": 78270,
+                        "bronze": 95530,
+                        "ezio": 71460
+                    }
+                },
+                "03_RaceF3": {
+                    "mapUid": "aFdIkT5t7MloQTALZQE8E1eRBac",
+                    "medals": {
+                        "author": 64780,
+                        "gold": 68120,
+                        "silver": 73950,
+                        "bronze": 89620,
+                        "ezio": 67580
+                    }
+                },
+                "04_RaceF4": {
+                    "mapUid": "if1CWcJ6XYyWu6nFCPi_fCY9O4i",
+                    "medals": {
+                        "author": 40980,
+                        "gold": 42780,
+                        "silver": 47250,
+                        "bronze": 59040,
+                        "ezio": 42440
+                    }
+                },
+                "05_RaceF5": {
+                    "mapUid": "UJ9znkISfQ8Nv426h4jITHOKYYa",
+                    "medals": {
+                        "author": 49360,
+                        "gold": 52230,
+                        "silver": 57340,
+                        "bronze": 69490,
+                        "ezio": 51480
+                    }
+                },
+                "06_RaceF6": {
+                    "mapUid": "X3XjCFXfACO95DLL2r1KWhAGQte",
+                    "medals": {
+                        "author": 61460,
+                        "gold": 63950,
+                        "silver": 70250,
+                        "bronze": 79250,
+                        "ezio": 63330
+                    }
+                },
+                "07_RaceF7": {
+                    "mapUid": "D8AgoSwtd3ZF1YlP03C7QY0qH_2",
+                    "medals": {
+                        "author": 103020,
+                        "gold": 106610,
+                        "silver": 117440,
+                        "bronze": 156060,
+                        "ezio": 103360
+                    }
+                },
+                "08_RaceF8": {
+                    "mapUid": "yEBcJNfMfXTccvt0799pLmC6XOl",
+                    "medals": {
+                        "author": 75260,
+                        "gold": 77250,
+                        "silver": 86980,
+                        "bronze": 97170,
+                        "ezio": 75290
+                    }
+                }
+            },
+            "07_RaceG": {
+                "01_RaceG1": {
+                    "mapUid": "L4v4dWOXBdDjv5v89UX9SI4Bwnf",
+                    "medals": {
+                        "author": 181920,
+                        "gold": 184220,
+                        "silver": 191440,
+                        "bronze": 210060,
+                        "ezio": 178840
+                    }
+                },
+                "02_RaceG2": {
+                    "mapUid": "GppZtf1wggRRs4hLhWohqKOdmT8",
+                    "medals": {
+                        "author": 267540,
+                        "gold": 267990,
+                        "silver": 286360,
+                        "bronze": 354890,
+                        "ezio": 260540
+                    }
+                },
+                "03_RaceG3": {
+                    "mapUid": "5jjXBx1XlrzbNyrApcBVuPUoiJ1",
+                    "medals": {
+                        "author": 224810,
+                        "gold": 225540,
+                        "silver": 231930,
+                        "bronze": 271130,
+                        "ezio": 224230
+                    }
+                }
+            }
+        },
+        "02_Puzzle": {
+            "01_PuzzleA": {
+                "01_PuzzleA1": {
+                    "mapUid": "mEhJHcNHs8xYyDd7CDHwzcFTso9",
+                    "medals": {
+                        "author": 7010,
+                        "gold": 7300,
+                        "silver": 8300,
+                        "bronze": 14000,
+                        "ezio": 6960
+                    }
+                },
+                "02_PuzzleA2": {
+                    "mapUid": "gzYuKNSzvUDaoTuQl1G9Pd9wqm8",
+                    "medals": {
+                        "author": 3960,
+                        "gold": 5000,
+                        "silver": 7000,
+                        "bronze": 14000,
+                        "ezio": 3890
+                    }
+                },
+                "03_PuzzleA3": {
+                    "mapUid": "voO15nmN_0OBAGr3t2OD0G91J8j",
+                    "medals": {
+                        "author": 13730,
+                        "gold": 15000,
+                        "silver": 18000,
+                        "bronze": 35000,
+                        "ezio": 13870
+                    }
+                },
+                "04_PuzzleA4": {
+                    "mapUid": "oxeOlaqYpf1wPP9KybyFOauW3c8",
+                    "medals": {
+                        "author": 13060,
+                        "gold": 15000,
+                        "silver": 17000,
+                        "bronze": 25000,
+                        "ezio": 13940
+                    }
+                },
+                "05_PuzzleA5": {
+                    "mapUid": "cT1_CoSxZcWDDDtkC6wj9xMDVW3",
+                    "medals": {
+                        "author": 2200,
+                        "gold": 3000,
+                        "silver": 8000,
+                        "bronze": 12000,
+                        "ezio": 2270
+                    }
+                },
+                "06_PuzzleA6": {
+                    "mapUid": "egiRcJkxk_KUPVUrtFdE3jZ10V0",
+                    "medals": {
+                        "author": 7190,
+                        "gold": 8000,
+                        "silver": 11000,
+                        "bronze": 20000,
+                        "ezio": 7920
+                    }
+                },
+                "07_PuzzleA7": {
+                    "mapUid": "QMSsUpQKzhgF1hIWdLTG527VAE3",
+                    "medals": {
+                        "author": 6010,
+                        "gold": 6100,
+                        "silver": 6500,
+                        "bronze": 8000,
+                        "ezio": 6030
+                    }
+                },
+                "08_PuzzleA8": {
+                    "mapUid": "kbwLr69S_OjEGHFFZVpmLspYGN3",
+                    "medals": {
+                        "author": 15090,
+                        "gold": 15500,
+                        "silver": 18000,
+                        "bronze": 25000,
+                        "ezio": 15150
+                    }
+                }
+            },
+            "02_PuzzleB": {
+                "01_PuzzleB1": {
+                    "mapUid": "X0mgFfagRSjvBGY5lv88sCHYFej",
+                    "medals": {
+                        "author": 7370,
+                        "gold": 8000,
+                        "silver": 9000,
+                        "bronze": 12000,
+                        "ezio": 7520
+                    }
+                },
+                "02_PuzzleB2": {
+                    "mapUid": "h_3ZYGc4ark6RBwqLlVzeDXBKpm",
+                    "medals": {
+                        "author": 19580,
+                        "gold": 21000,
+                        "silver": 30000,
+                        "bronze": 40000,
+                        "ezio": 20190
+                    }
+                },
+                "03_PuzzleB3": {
+                    "mapUid": "Wci_R4bf5BWGB4L0KGgdYqk9Lmb",
+                    "medals": {
+                        "author": 12800,
+                        "gold": 14500,
+                        "silver": 17000,
+                        "bronze": 30000,
+                        "ezio": 13610
+                    }
+                },
+                "04_PuzzleB4": {
+                    "mapUid": "Jje7NACEKxtyERztLnx981ZT9Al",
+                    "medals": {
+                        "author": 19490,
+                        "gold": 21000,
+                        "silver": 24000,
+                        "bronze": 45000,
+                        "ezio": 21000
+                    }
+                },
+                "05_PuzzleB5": {
+                    "mapUid": "xRTCeg8yiT3g22ab88Hmf_yVJXl",
+                    "medals": {
+                        "author": 17570,
+                        "gold": 20000,
+                        "silver": 23000,
+                        "bronze": 36000,
+                        "ezio": 19950
+                    }
+                },
+                "06_PuzzleB6": {
+                    "mapUid": "Y9BybGfQLn6EJjs6FCJpQ7wKl_i",
+                    "medals": {
+                        "author": 11910,
+                        "gold": 13500,
+                        "silver": 15500,
+                        "bronze": 25000,
+                        "ezio": 13360
+                    }
+                },
+                "07_PuzzleB7": {
+                    "mapUid": "3MK0vQ1gltP0jb9VxN7nOrg6LOc",
+                    "medals": {
+                        "author": 20960,
+                        "gold": 23500,
+                        "silver": 30000,
+                        "bronze": 50000,
+                        "ezio": 23400
+                    }
+                },
+                "08_PuzzleB8": {
+                    "mapUid": "jlAOb81V5EPOwPiHfO1FObLBl2k",
+                    "medals": {
+                        "author": 24120,
+                        "gold": 25000,
+                        "silver": 27000,
+                        "bronze": 40000,
+                        "ezio": 24280
+                    }
+                }
+            },
+            "03_PuzzleC": {
+                "01_PuzzleC1": {
+                    "mapUid": "d0ewWSq_Uku0hAxcN8Zn4GzbOUe",
+                    "medals": {
+                        "author": 9930,
+                        "gold": 11000,
+                        "silver": 13000,
+                        "bronze": 20000,
+                        "ezio": 9780
+                    }
+                },
+                "02_PuzzleC2": {
+                    "mapUid": "NBhEU2Y0x_YjZgCrX1A2vn_TWhj",
+                    "medals": {
+                        "author": 13980,
+                        "gold": 15000,
+                        "silver": 17000,
+                        "bronze": 25000,
+                        "ezio": 14110
+                    }
+                },
+                "03_PuzzleC3": {
+                    "mapUid": "qdA6YrT6cfDbXqlfsIf0VsNWR3j",
+                    "medals": {
+                        "author": 14190,
+                        "gold": 14500,
+                        "silver": 17000,
+                        "bronze": 25000,
+                        "ezio": 13250
+                    }
+                },
+                "04_PuzzleC4": {
+                    "mapUid": "B0pUzvH6rQxwwoGAFJmfqIHCcT",
+                    "medals": {
+                        "author": 18940,
+                        "gold": 20000,
+                        "silver": 26000,
+                        "bronze": 40000,
+                        "ezio": 18580
+                    }
+                },
+                "05_PuzzleC5": {
+                    "mapUid": "fvM9ZG325cUyGQTU0kZFI2oiKO0",
+                    "medals": {
+                        "author": 12770,
+                        "gold": 14000,
+                        "silver": 17000,
+                        "bronze": 25000,
+                        "ezio": 13750
+                    }
+                },
+                "06_PuzzleC6": {
+                    "mapUid": "i3OR1jPmMv3TkW3QNysMRJVJy90",
+                    "medals": {
+                        "author": 20470,
+                        "gold": 25000,
+                        "silver": 30000,
+                        "bronze": 35000,
+                        "ezio": 24110
+                    }
+                },
+                "07_PuzzleC7": {
+                    "mapUid": "osFWuffB1G2PPU7c2WoH37Pblrm",
+                    "medals": {
+                        "author": 8940,
+                        "gold": 10000,
+                        "silver": 13000,
+                        "bronze": 20000,
+                        "ezio": 9450
+                    }
+                },
+                "08_PuzzleC8": {
+                    "mapUid": "M7yKBeneg_y6qJneBljEzw9upyb",
+                    "medals": {
+                        "author": 25190,
+                        "gold": 27000,
+                        "silver": 30000,
+                        "bronze": 40000,
+                        "ezio": 26730
+                    }
+                }
+            },
+            "04_PuzzleD": {
+                "01_PuzzleD1": {
+                    "mapUid": "eQ4bj7R5Zy1XoC0uM8Y0GiXYgp0",
+                    "medals": {
+                        "author": 20490,
+                        "gold": 21500,
+                        "silver": 25000,
+                        "bronze": 35000,
+                        "ezio": 21150
+                    }
+                },
+                "02_PuzzleD2": {
+                    "mapUid": "UgbACpIHIZoc10fHBi1xnw2a3L4",
+                    "medals": {
+                        "author": 9680,
+                        "gold": 9800,
+                        "silver": 10000,
+                        "bronze": 11000,
+                        "ezio": 9690
+                    }
+                },
+                "03_PuzzleD3": {
+                    "mapUid": "jOaTLZe7IxmsyUHA3DnfvHZeMed",
+                    "medals": {
+                        "author": 18360,
+                        "gold": 20000,
+                        "silver": 24000,
+                        "bronze": 40000,
+                        "ezio": 16160
+                    }
+                },
+                "04_PuzzleD4": {
+                    "mapUid": "AXAYKT3utokA7hHBEMl5X4gZMT1",
+                    "medals": {
+                        "author": 14600,
+                        "gold": 15000,
+                        "silver": 16500,
+                        "bronze": 25000,
+                        "ezio": 14950
+                    }
+                },
+                "05_PuzzleD5": {
+                    "mapUid": "shQWTZaDwFALwfzaK_kLH0JDm8k",
+                    "medals": {
+                        "author": 16970,
+                        "gold": 18000,
+                        "silver": 21000,
+                        "bronze": 35000,
+                        "ezio": 16360
+                    }
+                },
+                "06_PuzzleD6": {
+                    "mapUid": "q8Xg8p3lcVElpDJbEKO0DbO4qw9",
+                    "medals": {
+                        "author": 12910,
+                        "gold": 13500,
+                        "silver": 16500,
+                        "bronze": 25000,
+                        "ezio": 13120
+                    }
+                },
+                "07_PuzzleD7": {
+                    "mapUid": "j59B2XgnLFKLbgHy1geWIQJ0g7f",
+                    "medals": {
+                        "author": 18770,
+                        "gold": 19000,
+                        "silver": 23000,
+                        "bronze": 30000,
+                        "ezio": 17670
+                    }
+                },
+                "08_PuzzleD8": {
+                    "mapUid": "5aSjpIaFqCQPIACPEaFOMTTo83f",
+                    "medals": {
+                        "author": 22490,
+                        "gold": 24000,
+                        "silver": 27000,
+                        "bronze": 40000,
+                        "ezio": 22210
+                    }
+                }
+            },
+            "05_PuzzleE": {
+                "01_PuzzleE1": {
+                    "mapUid": "soI48vs0yInKY3S7ZwOwIf8y3ac",
+                    "medals": {
+                        "author": 36180,
+                        "gold": 39000,
+                        "silver": 45000,
+                        "bronze": 60000,
+                        "ezio": 38450
+                    }
+                },
+                "02_PuzzleE2": {
+                    "mapUid": "GRTuTeyW3jaF_6DsVxClpK3o9hf",
+                    "medals": {
+                        "author": 15360,
+                        "gold": 17500,
+                        "silver": 20000,
+                        "bronze": 35000,
+                        "ezio": 14970
+                    }
+                },
+                "03_PuzzleE3": {
+                    "mapUid": "BD3Zc11vCSOrW_SB0DF09IS4HOd",
+                    "medals": {
+                        "author": 12770,
+                        "gold": 13500,
+                        "silver": 17000,
+                        "bronze": 25000,
+                        "ezio": 12910
+                    }
+                },
+                "04_PuzzleE4": {
+                    "mapUid": "OCbqofV2jsabxx0Fv_4qbtkQ1X6",
+                    "medals": {
+                        "author": 26800,
+                        "gold": 29000,
+                        "silver": 35000,
+                        "bronze": 50000,
+                        "ezio": 28790
+                    }
+                },
+                "05_PuzzleE5": {
+                    "mapUid": "CyDEW6iD2tdmcN1ki12eJ8sDWyi",
+                    "medals": {
+                        "author": 26190,
+                        "gold": 28000,
+                        "silver": 32000,
+                        "bronze": 50000,
+                        "ezio": 27560
+                    }
+                },
+                "06_PuzzleE6": {
+                    "mapUid": "qfw27tcIPSo7LRofqNDGVoqAgya",
+                    "medals": {
+                        "author": 26260,
+                        "gold": 28000,
+                        "silver": 32000,
+                        "bronze": 45000,
+                        "ezio": 27210
+                    }
+                },
+                "07_PuzzleE7": {
+                    "mapUid": "lM7gPZlmMGWYPDhEtrOrU9nHTSa",
+                    "medals": {
+                        "author": 13050,
+                        "gold": 14000,
+                        "silver": 20000,
+                        "bronze": 30000,
+                        "ezio": 13250
+                    }
+                },
+                "08_PuzzleE8": {
+                    "mapUid": "Q11RDRGJsrDo0IRpgjM13qciyE",
+                    "medals": {
+                        "author": 28430,
+                        "gold": 30000,
+                        "silver": 40000,
+                        "bronze": 60000,
+                        "ezio": 28450
+                    }
+                }
+            },
+            "06_PuzzleF": {
+                "01_PuzzleF1": {
+                    "mapUid": "SFY8tRJNcnRI8wUABkSWbe9TON9",
+                    "medals": {
+                        "author": 16270,
+                        "gold": 20000,
+                        "silver": 21600,
+                        "bronze": 40000,
+                        "ezio": 19190
+                    }
+                },
+                "02_PuzzleF2": {
+                    "mapUid": "6nU76TRj4Hln2jCvGdBb7Pj1Fdk",
+                    "medals": {
+                        "author": 50060,
+                        "gold": 53000,
+                        "silver": 61000,
+                        "bronze": 91000,
+                        "ezio": 43250
+                    }
+                },
+                "03_PuzzleF3": {
+                    "mapUid": "jovl3YY5Fv69enLLXz0eC5fZLS5",
+                    "medals": {
+                        "author": 18520,
+                        "gold": 19000,
+                        "silver": 21000,
+                        "bronze": 32000,
+                        "ezio": 16740
+                    }
+                },
+                "04_PuzzleF4": {
+                    "mapUid": "hlgYoFz8lyCOAGApim124lhX8Q8",
+                    "medals": {
+                        "author": 47580,
+                        "gold": 48000,
+                        "silver": 55000,
+                        "bronze": 70000,
+                        "ezio": 47530
+                    }
+                },
+                "05_PuzzleF5": {
+                    "mapUid": "M98sidVA2k8CTzhYQ9UFQ2v6vxg",
+                    "medals": {
+                        "author": 23680,
+                        "gold": 25000,
+                        "silver": 30000,
+                        "bronze": 45000,
+                        "ezio": 22480
+                    }
+                },
+                "06_PuzzleF6": {
+                    "mapUid": "8iMhQDq12OuuHHIBTZh4vhRUiym",
+                    "medals": {
+                        "author": 45260,
+                        "gold": 48000,
+                        "silver": 52000,
+                        "bronze": 70000,
+                        "ezio": 47480
+                    }
+                },
+                "07_PuzzleF7": {
+                    "mapUid": "tqt8tGsg2gV7SC47capH2cQS3Fd",
+                    "medals": {
+                        "author": 29400,
+                        "gold": 30000,
+                        "silver": 34000,
+                        "bronze": 45000,
+                        "ezio": 29420
+                    }
+                },
+                "08_PuzzleF8": {
+                    "mapUid": "4lBIg0aJXx52xfdt1ZxPD3Z9VBi",
+                    "medals": {
+                        "author": 30390,
+                        "gold": 32000,
+                        "silver": 36000,
+                        "bronze": 50000,
+                        "ezio": 31380
+                    }
+                }
+            },
+            "07_PuzzleG": {
+                "01_PuzzleG1": {
+                    "mapUid": "38KF_4rpH_ebOd4aXCMOV0sWBXd",
+                    "medals": {
+                        "author": 73650,
+                        "gold": 75000,
+                        "silver": 80000,
+                        "bronze": 90000,
+                        "ezio": 74030
+                    }
+                },
+                "02_PuzzleG2": {
+                    "mapUid": "okRgCiLxSf31zDhpiNuxEJEA9Qf",
+                    "medals": {
+                        "author": 143610,
+                        "gold": 148000,
+                        "silver": 170000,
+                        "bronze": 210000,
+                        "ezio": 134340
+                    }
+                },
+                "03_PuzzleG3": {
+                    "mapUid": "QY1TIseRA0oIifmsGXOxfu6Bc40",
+                    "medals": {
+                        "author": 75700,
+                        "gold": 78000,
+                        "silver": 85000,
+                        "bronze": 120000,
+                        "ezio": 75790
+                    }
+                }
+            }
+        },
+        "03_Platform": {
+            "01_PlatformA": {
+                "01_PlatformA1": {
+                    "mapUid": "QX7mEydXQTE1xnX2xeI9LslwANj",
+                    "medals": {
+                        "gold": 0,
+                        "silver": 3,
+                        "bronze": 10,
+                        "ezio": 0
+                    }
+                },
+                "02_PlatformA2": {
+                    "mapUid": "9mhQ02c_wrH5815haVFODRjybA5",
+                    "medals": {
+                        "gold": 0,
+                        "silver": 3,
+                        "bronze": 10,
+                        "ezio": 0
+                    }
+                },
+                "03_PlatformA3": {
+                    "mapUid": "gK5_ixqdgrkD6h2XFyack7LeyZd",
+                    "medals": {
+                        "gold": 0,
+                        "silver": 3,
+                        "bronze": 10,
+                        "ezio": 0
+                    }
+                }
+            },
+            "02_PlatformB": {
+                "01_PlatformB1": {
+                    "mapUid": "Jn5qozNC3XVYe1y3BzikNYlukJ8",
+                    "medals": {
+                        "gold": 0,
+                        "silver": 3,
+                        "bronze": 10,
+                        "ezio": 0
+                    }
+                },
+                "02_PlatformB2": {
+                    "mapUid": "cOJTLnkBdglGkP5MKLCVIJ91M_7",
+                    "medals": {
+                        "gold": 0,
+                        "silver": 3,
+                        "bronze": 10,
+                        "ezio": 0
+                    }
+                },
+                "03_PlatformB3": {
+                    "mapUid": "43u6aOxS8hIz0hMNRTlNztC3KGh",
+                    "medals": {
+                        "gold": 0,
+                        "silver": 3,
+                        "bronze": 10,
+                        "ezio": 0
+                    }
+                }
+            },
+            "03_PlatformC": {
+                "01_PlatformC1": {
+                    "mapUid": "uNxbYdnCtChk0AcunTDnGWqMw34",
+                    "medals": {
+                        "gold": 0,
+                        "silver": 3,
+                        "bronze": 10,
+                        "ezio": 0
+                    }
+                },
+                "02_PlatformC2": {
+                    "mapUid": "eu7qfsd_Aw0rhBZA4BmuS3PLODa",
+                    "medals": {
+                        "gold": 0,
+                        "silver": 3,
+                        "bronze": 10,
+                        "ezio": 0
+                    }
+                },
+                "03_PlatformC3": {
+                    "mapUid": "s7gcjFDTFYxZ_Ck3rYhpgBEyV29",
+                    "medals": {
+                        "gold": 0,
+                        "silver": 3,
+                        "bronze": 10,
+                        "ezio": 0
+                    }
+                }
+            },
+            "04_PlatformD": {
+                "01_PlatformD1": {
+                    "mapUid": "c1u8rUWROzN7QEyYZTnxZrru7Yg",
+                    "medals": {
+                        "gold": 0,
+                        "silver": 3,
+                        "bronze": 10,
+                        "ezio": 0
+                    }
+                },
+                "02_PlatformD2": {
+                    "mapUid": "xUuU1G3RmUnIhl0pKG8E55J2wd3",
+                    "medals": {
+                        "gold": 0,
+                        "silver": 3,
+                        "bronze": 10,
+                        "ezio": 0
+                    }
+                },
+                "03_PlatformD3": {
+                    "mapUid": "K6eV41kg2yTUhmreNTQgYkLhMO6",
+                    "medals": {
+                        "gold": 0,
+                        "silver": 3,
+                        "bronze": 10,
+                        "ezio": 0
+                    }
+                }
+            },
+            "05_PlatformE": {
+                "01_PlatformE1": {
+                    "mapUid": "DpoFOHs3XeNQlaBwgoM8n3PHrR5",
+                    "medals": {
+                        "gold": 0,
+                        "silver": 3,
+                        "bronze": 10,
+                        "ezio": 0
+                    }
+                },
+                "02_PlatformE2": {
+                    "mapUid": "k5bALqcyLzJtpFeP48vLnHeLrSg",
+                    "medals": {
+                        "gold": 0,
+                        "silver": 3,
+                        "bronze": 10,
+                        "ezio": 0
+                    }
+                },
+                "03_PlatformE3": {
+                    "mapUid": "OF3Fl_bnblzGUmdt2ZzZCdDAwh1",
+                    "medals": {
+                        "gold": 0,
+                        "silver": 3,
+                        "bronze": 10,
+                        "ezio": 0
+                    }
+                }
+            }
+        },
+        "04_Stunts": {
+            "01_StuntsA": {
+                "01_StuntsA1": {
+                    "mapUid": "0g8ZWbpuyPzcFEJ6xGrJYPfBSI",
+                    "medals": {
+                        "author": 141,
+                        "gold": 84,
+                        "silver": 62,
+                        "bronze": 40,
+                        "ezio": 88
+                    }
+                },
+                "02_StuntsA2": {
+                    "mapUid": "iru8ZUWef0hWbqU0EmsfEkTXmSe",
+                    "medals": {
+                        "author": 174,
+                        "gold": 98,
+                        "silver": 64,
+                        "bronze": 37,
+                        "ezio": 105
+                    }
+                },
+                "03_StuntsA3": {
+                    "mapUid": "26DEZHqvdQt8t1LOFE573UbTMTk",
+                    "medals": {
+                        "author": 131,
+                        "gold": 76,
+                        "silver": 32,
+                        "bronze": 11,
+                        "ezio": 77
+                    }
+                }
+            },
+            "02_StuntsB": {
+                "01_StuntsB1": {
+                    "mapUid": "WG5JGXy8yKrSBsTaNi7TIseZnhi",
+                    "medals": {
+                        "author": 307,
+                        "gold": 197,
+                        "silver": 135,
+                        "bronze": 71,
+                        "ezio": 211
+                    }
+                },
+                "02_StuntsB2": {
+                    "mapUid": "vk7MXby64NKJF0QCaOG5QL2uYHm",
+                    "medals": {
+                        "author": 470,
+                        "gold": 375,
+                        "silver": 263,
+                        "bronze": 195,
+                        "ezio": 379
+                    }
+                },
+                "03_StuntsB3": {
+                    "mapUid": "P53uZy6DRVuTI46bV7kkCnojem6",
+                    "medals": {
+                        "author": 311,
+                        "gold": 265,
+                        "silver": 172,
+                        "bronze": 102,
+                        "ezio": 278
+                    }
+                }
+            },
+            "03_StuntsC": {
+                "01_StuntsC1": {
+                    "mapUid": "PWYlK76MyW7764nsqv56DGQsbN3",
+                    "medals": {
+                        "author": 717,
+                        "gold": 304,
+                        "silver": 150,
+                        "bronze": 71,
+                        "ezio": 352
+                    }
+                },
+                "02_StuntsC2": {
+                    "mapUid": "02_Tpu1nveNgkiMBChdM6ov0pxk",
+                    "medals": {
+                        "author": 248,
+                        "gold": 212,
+                        "silver": 168,
+                        "bronze": 112,
+                        "ezio": 220
+                    }
+                },
+                "03_StuntsC3": {
+                    "mapUid": "aIdUNIz5Z7Ja8BrkKZ5yLjodmaj",
+                    "medals": {
+                        "author": 461,
+                        "gold": 351,
+                        "silver": 264,
+                        "bronze": 191,
+                        "ezio": 352
+                    }
+                }
+            },
+            "04_StuntsD": {
+                "01_StuntsD1": {
+                    "mapUid": "MHBxfekrAuO8yqPWUEjrdbpNpN3",
+                    "medals": {
+                        "author": 539,
+                        "gold": 352,
+                        "silver": 236,
+                        "bronze": 163,
+                        "ezio": 384
+                    }
+                },
+                "02_StuntsD2": {
+                    "mapUid": "67HmSCUhtx0wB1menfeURqlmNz9",
+                    "medals": {
+                        "author": 331,
+                        "gold": 259,
+                        "silver": 219,
+                        "bronze": 172,
+                        "ezio": 380
+                    }
+                },
+                "03_StuntsD3": {
+                    "mapUid": "1Lj_DAXjXxOsd1fozVTCmxJwjz2",
+                    "medals": {
+                        "author": 431,
+                        "gold": 332,
+                        "silver": 225,
+                        "bronze": 195,
+                        "ezio": 364
+                    }
+                }
+            }
+        }
+    },
     "02_TrackMania Sunrise eXtreme": {
         "01_Race": {
             "01_Holidays": {
